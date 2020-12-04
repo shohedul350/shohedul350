@@ -10,5 +10,5 @@ I'm passionate about technologies especially web.I started working with javascri
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='20'>](https://github.com/iamshakibb) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='20'>](https://www.linkedin.com/in/shohedul350/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='20'>](https://www.facebook.com/in/shohedul350/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='20'>](https://www.instagram.com/shohedul350/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='20'>](https://twitter.com/shohedul350)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=shohedul350&show_icons=true)  
+![Shohedul github stats](https://github-readme-stats.vercel.app/api?username=shohedul350&show_icons=true&theme=radical)
   
