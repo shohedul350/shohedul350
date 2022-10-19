@@ -2,7 +2,7 @@
 #### I am MERN Stack web Application Developer 
 I'm passionate about technologies specially web.I started working with javascript since 2018 and I loved it so much. my main focus is backend development.I'm a capable and adaptable person who is looking forward to learn new working skills and methods in order to gain experience that can be used in a career in the near and distant future.
 
-- 🌱 I’m currently learning typescript and grapgQl and working on e-commerce projects with our team (NESH-Soft) to gain experience. 
+
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Follow me on social media 
 
