@@ -9,7 +9,6 @@ I'm passionate about technologies specially web.I started working with javascrip
 ### Contact With Me
 <p align="left">
 <a href="https://www.linkedin.com/in/shohedul350/" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="shohedul350" height="30" width="40" /></a>
-  
 <a href="https://stackoverflow.com/users/12924862/shohedul" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" alt="4285052" height="30" width="40" /></a>
 <a href="https://fb.com/shohedul350" target="blank"><img align="center" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" alt="shohedul350" height="30" width="40" /></a>
 
